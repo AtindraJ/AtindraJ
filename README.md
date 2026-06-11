@@ -1,4 +1,4 @@
-# Hi, I am Atindra Jayakar 👋
+# Hi, I am Atindra Jayakar 
 
 ML Engineer and Researcher building AI systems that work in the real world.
 MEng CS @ Cornell | Medical AI | LLMs | Agentic Systems
